@@ -1,0 +1,62 @@
+{
+  "name": "consequaturdistinctio",
+  "version": "1.0.0",
+  "description": "Transforming JSON with plugins.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShaniaRempel/consequaturdistinctio.git"
+  },
+  "author": "FrederikMueller",
+  "precommit.silent": true,
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "for-own": "^0.1.4",
+    "kind-of": "^3.0.2",
+    "lazy-cache": "^2.0.0",
+    "use-ware": "^0.3.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "pre-commit": "*"
+  },
+  "files": [
+    "index.js",
+    "utils.js"
+  ],
+  "keywords": [
+    "qui",
+    "ducimus",
+    "js",
+    "json",
+    "manipulation",
+    "et",
+    "amet",
+    "plugins",
+    "non",
+    "unde",
+    "perspiciatis",
+    "postprocessor",
+    "preprocessor",
+    "process",
+    "minus",
+    "render",
+    "asperiores",
+    "voluptatum",
+    "doloribus",
+    "transpilier",
+    "use"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "empty",
+    "tasks": [
+      "readme"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/ShaniaRempel/consequaturdistinctio.git/issues"
+  },
+  "homepage": "https://github.com/ShaniaRempel/consequaturdistinctio.git"
+}
